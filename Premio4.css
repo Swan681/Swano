@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(160, 0, 0);
+}
+
+h1{
+    background-color: #000000c4;
+    color:aliceblue;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+video{
+    border: solid rgb(0, 0, 0);
+    border-radius: 20px;
+}
+
+div{
+    display: flex;
+}
+
+.v1{
+    margin-left: 10%;
+}
+.v2{
+    margin-left: 5%;
+}
+
+.v3{
+    margin-left: 30%;
+}
+
+button{
+    background-color: black;
+    border-radius: 20px;
+    margin-left: 45%;
+    width: 10%;
+    height: 5%;
+}
+
+a{
+    color: aliceblue;
+    font-size: larger;
+}
